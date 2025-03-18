@@ -1,6 +1,3 @@
-//modify search for detecting multiple elements in a list,  fixing for loopholes and make the position +1 i think
-
-
 #include <stdio.h>
 #include <stdlib.h>
 
